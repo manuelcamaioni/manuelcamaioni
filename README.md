@@ -20,5 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelcamaioni&show_icons=true&locale=en&layout=compact" alt="manuelcamaioni" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manuelcamaioni&show_icons=true&locale=en" alt="manuelcamaioni" /></p>
+<p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=manuelcamaioni&show_icons=true&locale=en" alt="manuelcamaioni" /></p>
 
